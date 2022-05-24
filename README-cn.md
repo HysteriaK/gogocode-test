@@ -6,11 +6,15 @@
 
 [English version of README](README.md)
 
+官网：https://gogocode.io
+简介：[阿里妈妈出的新工具]
+
 GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具，但相较于同类，它提供了更符合直觉的 API
 
 -   一套类 Jquery 的 API 用来查找和处理 AST
 -   一套和正则表达式接近的语法用来匹配和替换代码
 -   一套我用来练手git指令的
+-   一套我用来练手的
 
 来 [GoGoCode.io](https://gogocode.io) 了解更多
 
